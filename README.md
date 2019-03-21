@@ -4,27 +4,27 @@ Hvert innrykk merker en ny underfil i strukturen
 
 ICA01
 
-     Oppgave 1
+    Oppgave 1
    
       Oppgavefil
    
    
-     Oppgave 2
+    Oppgave 2
    
       Oppgavefil
    
-     Oppgave 3
+    Oppgave 3
    
       Oppgavefil
    
-     Oppgave 4
+    Oppgave 4
    
       Oppgavefil
   
-     Oppgave 5
+    Oppgave 5
    
       Oppgavefil
 ICA02 
 
-     Oppgave 1 
+    Oppgave 1 
       ... osv
