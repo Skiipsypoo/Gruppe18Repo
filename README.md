@@ -2,10 +2,12 @@
 For at vi skal ha litt bedre struktur opprettet jeg nå et nytt Repo, vil helst ha en filstruktur som gå 
 Hvert innrykk merker en ny underfil i strukturen
 
-ICA01  
+ICA01
+
    Oppgave 1
    
       Oppgavefil
+   
    
    Oppgave 2
    
